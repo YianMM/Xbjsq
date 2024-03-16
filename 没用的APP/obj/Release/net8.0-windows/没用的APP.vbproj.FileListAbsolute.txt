@@ -1,0 +1,16 @@
+D:\Desktop\其他东西\没用的APP\没用的APP\bin\Release\net8.0-windows\没用的APP.exe
+D:\Desktop\其他东西\没用的APP\没用的APP\bin\Release\net8.0-windows\没用的APP.deps.json
+D:\Desktop\其他东西\没用的APP\没用的APP\bin\Release\net8.0-windows\没用的APP.runtimeconfig.json
+D:\Desktop\其他东西\没用的APP\没用的APP\bin\Release\net8.0-windows\没用的APP.dll
+D:\Desktop\其他东西\没用的APP\没用的APP\bin\Release\net8.0-windows\没用的APP.pdb
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.Form1.resources
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.vbproj.GenerateResource.cache
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.AssemblyInfoInputs.cache
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.AssemblyInfo.vb
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.vbproj.CoreCompileInputs.cache
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.dll
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\refint\没用的APP.dll
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.pdb
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\没用的APP.genruntimeconfig.cache
+D:\Desktop\其他东西\没用的APP\没用的APP\obj\Release\net8.0-windows\ref\没用的APP.dll
